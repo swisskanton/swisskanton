@@ -49,12 +49,12 @@
 </p>
 
 <h2 align="left">🔭 I’m currently working on:</h2>
-     check out my repo: 
+     check out my repo
      <br>
     <a href="https://github.com/swisskanton/hackerRankAndCodeWars" target="_blank" title ="GitHub"> 
         <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png?w=360" alt="github" width="40" height="40" /> </a>
     <br>
-    or check out my works
+    or check out my ranks
     <br>
 <p align="left">
     <a href="https://www.hackerrank.com/swisskanton?hr_r=1" target="_blank" title ="GitHub"> 
