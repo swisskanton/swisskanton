@@ -48,19 +48,23 @@
         alt="github" width="200" height="40" /> </a>
 </p>
 
-<h2 align="left">🔭 I’m currently working on:
+<h2 align="left">🔭 I’m currently working on:</h2>
+     check out my repo: 
+     <br>
     <a href="https://github.com/swisskanton/hackerRankAndCodeWars" target="_blank" title ="GitHub"> 
-        <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png?w=360" alt="github" width="30" height="30" /> </a>
-</h2>
+        <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png?w=360" alt="github" width="40" height="40" /> </a>
+    <br>
+    or check out my works
+    <br>
 <p align="left">
     <a href="https://www.hackerrank.com/swisskanton?hr_r=1" target="_blank" title ="GitHub"> 
         <img src="https://www.hackerrank.com/wp-content/uploads/2018/08/hackerrank_logo.png" alt="github" width="240" height="40" /> </a>
     and
     <a href="https://www.codewars.com/users/swisskanton" target="_blank" title ="GitHub"> 
         <img src="https://assets-global.website-files.com/62462834c60df92621c6b5be/624f2f0a99d70b93d9a65476_light-text-logo.svg" 
-        alt="github" width="300" height="60" /> </a>
+        alt="github" width="300" height="55" /> </a>
         <!-- https://www.codewars.com/packs/assets/logo.61192cf7.svg -->
-    tasks.
+        
 </p>
 
 <h2 align="left">💡 Other stats:</h2>
