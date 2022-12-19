@@ -69,7 +69,8 @@
 
 <h2 align="left">💡 Other stats:</h2>
 <p>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
+    <!--<a href="https://github.com/anuraghazra/github-readme-stats">-->
+        <a href="https://github.com/swisskanton/github-readme-stats">
       <img height="130px" src="https://github-readme-stats.vercel.app/api?username=swisskanton&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=gruvbox" align="left"/>
     </a>
 </p>
