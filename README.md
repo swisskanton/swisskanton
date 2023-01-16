@@ -33,14 +33,14 @@
     <a href="https://github.com" target="_blank" title ="GitHub"> 
         <img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" alt="github" width="40" height="40" /> </a>
 </p>
-
+<!--
 <p align="left">
-    <a href=""> <!-- https://github.com/anuraghazra/github-readme-stats --> 
+    <a href="https://github.com/anuraghazra/github-readme-stats"> 
     <img height="137px" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=swisskanton&hide_title=true&hide_border=true&layout=compact&langs_count=10&theme=gruvbox" align="right" />
     </a>
 </p>
-
+-->
 <h2 align="left">🌱 Currently learning:</h2>
 <p align="left">
     <a href="https://www.servicenow.com/" target="_blank" title ="ServiceNow"> 
@@ -68,11 +68,13 @@
 </p>
 
 <h2 align="left">💡 Other stats:</h2>
+<!--
 <p>
-    <a href=""> <!-- https://github.com/anuraghazra/github-readme-stats" -->
+    <a href="https://github.com/anuraghazra/github-readme-stats">
       <img height="130px" src="https://github-readme-stats.vercel.app/api?username=swisskanton&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=gruvbox" align="left"/>
     </a>
 </p>
+-->
 <p>
     <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
       <img height="130px" src="https://github-readme-streak-stats.herokuapp.com/?user=swisskanton&theme=dark&hide_border=true&theme=gruvbox&fire=f82" align="right" />
