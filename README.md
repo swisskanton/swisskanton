@@ -35,7 +35,7 @@
 </p>
 
 <p align="left">
-    <a href="https://github.com/anuraghazra/github-readme-stats"> 
+    <a> <!--href="https://github.com/anuraghazra/github-readme-stats"--> 
     <img height="137px" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=swisskanton&hide_title=true&hide_border=true&layout=compact&langs_count=10&theme=gruvbox" align="right" />
     </a>
@@ -69,7 +69,7 @@
 
 <h2 align="left">💡 Other stats:</h2>
 <p>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
+    <a> <!--href="https://github.com/anuraghazra/github-readme-stats"-->
       <img height="130px" src="https://github-readme-stats.vercel.app/api?username=swisskanton&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=gruvbox" align="left"/>
     </a>
 </p>
