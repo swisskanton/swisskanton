@@ -49,7 +49,7 @@
 <p align="left">
     <a href="https://spring.io/" target="_blank" title ="Spring Boot"> 
         <img src="https://www.appsdeveloperblog.com/wp-content/uploads/2022/08/spring_boot.png?ezimgfmt=ng%3Awebp%2Fngcb2%2Frs%3Adevice%2Frscb2-1" 
-        alt="github" width="200" height="40" /> </a>
+        alt="github" width="200" height="80" /> </a>
 </p>
 
 <h2 align="left">🔭 I’m currently working on:</h2>
