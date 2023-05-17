@@ -32,6 +32,10 @@
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> </a>
     <a href="https://github.com" target="_blank" title ="GitHub"> 
         <img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" alt="github" width="40" height="40" /> </a>
+    <br>
+    <a href="https://www.servicenow.com/" target="_blank" title ="ServiceNow"> 
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/ServiceNow_logo.svg/2560px-ServiceNow_logo.svg.png" 
+        alt="github" width="200" height="40" /> </a>
 </p>
 <!--
 <p align="left">
@@ -43,8 +47,8 @@
 -->
 <h2 align="left">🌱 Currently learning:</h2>
 <p align="left">
-    <a href="https://www.servicenow.com/" target="_blank" title ="ServiceNow"> 
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/ServiceNow_logo.svg/2560px-ServiceNow_logo.svg.png" 
+    <a href="https://spring.io/" target="_blank" title ="Spring Boot"> 
+        <img src="https://www.appsdeveloperblog.com/wp-content/uploads/2022/08/spring_boot.png?ezimgfmt=ng%3Awebp%2Fngcb2%2Frs%3Adevice%2Frscb2-1" 
         alt="github" width="200" height="40" /> </a>
 </p>
 
