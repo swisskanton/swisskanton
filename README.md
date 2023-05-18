@@ -71,21 +71,22 @@
         
 </p>
 
-<h2 align="left">💡 Other stats:</h2>
 <!--
+<h2 align="left">💡 Other stats:</h2>
+
 <p>
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img height="130px" src="https://github-readme-stats.vercel.app/api?username=swisskanton&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=gruvbox" align="left"/>
     </a>
 </p>
--->
+
 <p>
     <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
       <img height="130px" src="https://github-readme-streak-stats.herokuapp.com/?user=swisskanton&theme=dark&hide_border=true&theme=gruvbox&fire=f82" align="right" />
     </a>
 </p>
 
-<!--
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swisskanton)](https://github.com/swisskanton/github-readme-stats)
 
 **swisskanton/swisskanton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
