@@ -1,4 +1,4 @@
-### <h1>Hi there 👋  <img align="right" src="https://gpvc.arturio.dev/swisskanton" alt="Profile views"> </h1>
+### <h1>Hi there 👋 </h1> <!-- img align="right" src="https://gpvc.arturio.dev/swisskanton" alt="Profile views" --> 
 
 <h2 align="left">🛠 Tools and technologies:</h2>
 
