@@ -38,7 +38,7 @@
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /></a>
     &nbsp;
     <a href="https://github.com" target="_blank" title ="GitHub"> 
-        <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" alt="github" width="40" height="40" /></a>
+        <img src="[https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png](https://cdn-icons-png.flaticon.com/512/25/25231.png?w=360)" alt="github" width="40" height="40" /></a>
     <br>
     <a href="https://www.servicenow.com/" target="_blank" title ="ServiceNow"> 
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/ServiceNow_logo.svg/2560px-ServiceNow_logo.svg.png" 
