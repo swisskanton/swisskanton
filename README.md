@@ -48,9 +48,17 @@
 <h2 align="left">🌱 Currently learning:</h2>
 <p align="left">
     <a href="https://spring.io/" target="_blank" title ="Spring Boot"> 
-        <!--img src="[https://www.appsdeveloperblog.com/wp-content/uploads/2022/08/spring_boot.png?ezimgfmt=ng%3Awebp%2Fngcb2%2Frs%3Adevice%2Frscb2-1](https://repository-images.githubusercontent.com/259018719/0663e880-8a02-11ea-9c75-44ca9a90cc1f)" -->
-        <img src="https://img.icons8.com/?size=100&id=90519&format=png&color=000000" 
+        <img src="https://www.appsdeveloperblog.com/wp-content/uploads/2022/08/spring_boot.png?ezimgfmt=ng%3Awebp%2Fngcb2%2Frs%3Adevice%2Frscb2-1"
+        <!--img src="https://img.icons8.com/?size=100&id=90519&format=png&color=000000" -->
         alt="Spring Boot" width="40" height="40" /></a>
+
+    <a href="https://dart.dev/" target="_blank" title ="Dart"> 
+        <img src="https://github.com/user-attachments/assets/af0f15da-86bc-4940-bd6b-54228b003a19" 
+        alt="Dart" width="40" height="40" /></a>
+
+    <a href="https://flutter.dev/" target="_blank" title ="Flutter"> 
+        <img src="https://img.icons8.com/?size=100&id=7I3BjCqe9rjG&format=png&color=000000" 
+        alt="Flutter" width="40" height="40" /></a>
 </p>
 
 <h2 align="left">🔭 I’m currently working on:</h2>
@@ -63,11 +71,11 @@
     <br>
 <p align="left">
     <a href="https://www.hackerrank.com/swisskanton?hr_r=1" target="_blank" title ="HackerRank"> 
-        <img src="https://www.hackerrank.com/wp-content/uploads/2018/08/hackerrank_logo.png" alt="github" width="240" height="40" /></a>
+        <img src="https://www.hackerrank.com/wp-content/uploads/2018/08/hackerrank_logo.png" alt="hackerrank" width="240" height="40" /></a>
     and
     <a href="https://www.codewars.com/users/swisskanton" target="_blank" title ="Codewars"> 
         <img src="https://assets-global.website-files.com/62462834c60df92621c6b5be/624f2f0a99d70b93d9a65476_light-text-logo.svg" 
-        alt="github" width="300" height="55" /></a>
+        alt="codewars" width="218" height="40" /></a>
         <!-- https://www.codewars.com/packs/assets/logo.61192cf7.svg -->
         
 </p>
