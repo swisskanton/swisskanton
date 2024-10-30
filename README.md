@@ -46,10 +46,7 @@
 </p>
 
 <h2 align="left">🌱 Currently learning:</h2>
-<p align="left">
-    <a href="https://nodejs.org/en" target="_blank" title="Node.js"> 
-        <img src="https://img.icons8.com/?size=100&id=54087&format=png&color=000000" alt="Node.js" width="40" height="40" /></a>
-    &nbsp;
+<p align="left">  
     <a href="https://spring.io/" target="_blank" title="Spring Boot"> 
         <img src="https://img.icons8.com/?size=100&id=90519&format=png&color=000000" alt="Spring Boot" width="40" height="40" /></a>
     &nbsp;
@@ -58,6 +55,9 @@
     &nbsp;
     <a href="https://flutter.dev/" target="_blank" title="Flutter"> 
         <img src="https://img.icons8.com/?size=100&id=7I3BjCqe9rjG&format=png&color=000000" alt="Flutter" width="40" height="40" /></a>
+    &nbsp;
+    <a href="https://nodejs.org/en" target="_blank" title="Node.js"> 
+        <img src="https://img.icons8.com/?size=100&id=54087&format=png&color=000000" alt="Node.js" width="60" height="60" /></a>
 </p>
 
 <h2 align="left">🔭 I’m currently working on:</h2>
