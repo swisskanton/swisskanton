@@ -16,60 +16,48 @@
         alt="VS Code" width="40" height="40"/></a>
     &nbsp;
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" title ="JavaScript"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
-    </a>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" /></a>
     &nbsp;
     <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" title ="CSS">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
-    </a>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" /></a>
     &nbsp;
     <a href="https://html.spec.whatwg.org/multipage/" target="_blank" title ="HTML"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" />
-    </a>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" /></a>
     <br>
     <a href="https://www.jetbrains.com/pycharm//" target="_blank" title ="PyCharm IDEA"> 
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/120px-PyCharm_Icon.svg.png" 
-        alt="pycharm idea" width="40" height="40" />
-    </a>
+        alt="pycharm idea" width="40" height="40" /></a>
     &nbsp;
     <a href="https://www.python.org/" target="_blank" title ="Python"> 
         <img src="https://docs.python.org/3/_static/py.svg" alt="python" width="40" height="40" /></a>
     <br>
     <a href="https://postman.com" target="_blank" title ="Postman"> 
-        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" />
-    </a>
+        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" /></a>
     &nbsp;
     <a href="https://git-scm.com/" target="_blank" title ="git"> 
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
-    </a>
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /></a>
     &nbsp;
     <a href="https://github.com" target="_blank" title ="GitHub"> 
-        <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" alt="github" width="40" height="40" />
-    </a>
+        <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" alt="github" width="40" height="40" /></a>
     <br>
     <a href="https://www.servicenow.com/" target="_blank" title ="ServiceNow"> 
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/ServiceNow_logo.svg/2560px-ServiceNow_logo.svg.png" 
-        alt="ServiceNow" width="180" height="40" />
-    </a>
+        alt="ServiceNow" width="180" height="40" /></a>
 </p>
 
 <h2 align="left">🌱 Currently learning:</h2>
 <p align="left">
     <a href="https://nodejs.org/en" target="_blank" title="Node.js"> 
-        <img src="https://img.icons8.com/?size=100&id=54087&format=png&color=000000" alt="Node.js" width="40" height="40" />
-    </a>
+        <img src="https://img.icons8.com/?size=100&id=54087&format=png&color=000000" alt="Node.js" width="40" height="40" /></a>
     &nbsp;
     <a href="https://spring.io/" target="_blank" title="Spring Boot"> 
-        <img src="https://img.icons8.com/?size=100&id=90519&format=png&color=000000" alt="Spring Boot" width="40" height="40" />
-    </a>
+        <img src="https://img.icons8.com/?size=100&id=90519&format=png&color=000000" alt="Spring Boot" width="40" height="40" /></a>
     &nbsp;
     <a href="https://dart.dev/" target="_blank" title="Dart"> 
-        <img src="https://github.com/user-attachments/assets/af0f15da-86bc-4940-bd6b-54228b003a19" alt="Dart" width="40" height="40" />
-    </a>
+        <img src="https://github.com/user-attachments/assets/af0f15da-86bc-4940-bd6b-54228b003a19" alt="Dart" width="40" height="40" /></a>
     &nbsp;
     <a href="https://flutter.dev/" target="_blank" title="Flutter"> 
-        <img src="https://img.icons8.com/?size=100&id=7I3BjCqe9rjG&format=png&color=000000" alt="Flutter" width="40" height="40" />
-    </a>
+        <img src="https://img.icons8.com/?size=100&id=7I3BjCqe9rjG&format=png&color=000000" alt="Flutter" width="40" height="40" /></a>
 </p>
 
 <h2 align="left">🔭 I’m currently working on:</h2>
@@ -82,14 +70,11 @@
     <br>
 <p align="left">
     <a href="https://www.hackerrank.com/swisskanton?hr_r=1" target="_blank" title ="HackerRank"> 
-        <img src="https://www.hackerrank.com/wp-content/uploads/2018/08/hackerrank_logo.png" alt="hackerrank" width="240" height="40" />
-    </a>
+        <img src="https://www.hackerrank.com/wp-content/uploads/2018/08/hackerrank_logo.png" alt="hackerrank" width="240" height="40" /></a>
     &nbsp; and &nbsp;
     <a href="https://www.codewars.com/users/swisskanton" target="_blank" title ="Codewars"> 
         <img src="https://assets-global.website-files.com/62462834c60df92621c6b5be/624f2f0a99d70b93d9a65476_light-text-logo.svg" 
-        alt="codewars" width="218" height="40" />
-    </a>
-        <!-- https://www.codewars.com/packs/assets/logo.61192cf7.svg -->
+        alt="codewars" width="218" height="40" /></a>
         
 </p>
 
