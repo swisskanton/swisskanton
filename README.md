@@ -52,16 +52,10 @@
 <h2 align="left">🌱 Currently learning:</h2>
 <p align="left">
     <a href="https://spring.io/" target="_blank" title="Spring Boot"> 
-        <img src="https://www.appsdeveloperblog.com/wp-content/uploads/2022/08/spring_boot.png?ezimgfmt=ng%3Awebp%2Fngcb2%2Frs%3Adevice%2Frscb2-1" alt="Spring Boot" width="40" height="40" />
+        <img src="https://www.appsdeveloperblog.com/wp-content/uploads/2022/08/spring_boot.png?ezimgfmt=ng%3Awebp%2Fngcb2%2Frs%3Adevice%2Frscb2-1" alt="Spring Boot" width="240" height="40" />
     </a>
     
-    <a href="https://dart.dev/" target="_blank" title="Dart"> 
-        <img src="https://github.com/user-attachments/assets/af0f15da-86bc-4940-bd6b-54228b003a19" alt="Dart" width="40" height="40" />
-    </a>
-
-    <a href="https://flutter.dev/" target="_blank" title="Flutter"> 
-        <img src="https://img.icons8.com/?size=100&id=7I3BjCqe9rjG&format=png&color=000000" alt="Flutter" width="40" height="40" />
-    </a>
+    
 </p>
 
 <h2 align="left">🔭 I’m currently working on:</h2>
