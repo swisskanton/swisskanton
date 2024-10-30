@@ -5,18 +5,15 @@
 <p align="left">
     <a href="https://www.jetbrains.com/idea/" target="_blank" title ="IntelliJ IDEA"> 
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png" 
-        alt="intellij idea" width="40" height="40" />
-    </a>
+        alt="intellij idea" width="40" height="40"/></a>
     &nbsp;
     <a href="https://www.java.com/en/" target="_blank" title ="Java"> 
         <img src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png"
-        alt="java" width="40" height="40" />
-    </a>
+        alt="java" width="40" height="40"/></a>
     <br>
     <a href="https://code.visualstudio.com/" target="_blank" title ="Visual Studio Code"> 
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Visual_Studio_Code_1.35_icon.png/120px-Visual_Studio_Code_1.35_icon.png" 
-        alt="VS Code" width="40" height="40" />
-    </a>
+        alt="VS Code" width="40" height="40"/></a>
     &nbsp;
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" title ="JavaScript"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
