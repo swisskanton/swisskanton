@@ -51,6 +51,9 @@
 
 <h2 align="left">🌱 Currently learning:</h2>
 <p align="left">
+    <a href="https://nodejs.org/en" target="_blank" title="Node.js"> 
+        <img src="https://img.icons8.com/?size=100&id=54087&format=png&color=000000" alt="Node.js" width="40" height="40" />
+    </a>
     <a href="https://spring.io/" target="_blank" title="Spring Boot"> 
         <img src="https://img.icons8.com/?size=100&id=90519&format=png&color=000000" alt="Spring Boot" width="40" height="40" />
     </a>
