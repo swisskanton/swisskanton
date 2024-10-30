@@ -52,7 +52,7 @@
     <br>
     <a href="https://www.servicenow.com/" target="_blank" title ="ServiceNow"> 
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/ServiceNow_logo.svg/2560px-ServiceNow_logo.svg.png" 
-        alt="github" width="200" height="40" />
+        alt="ServiceNow" width="180" height="40" />
     </a>
 </p>
 
@@ -85,11 +85,13 @@
     <br>
 <p align="left">
     <a href="https://www.hackerrank.com/swisskanton?hr_r=1" target="_blank" title ="HackerRank"> 
-        <img src="https://www.hackerrank.com/wp-content/uploads/2018/08/hackerrank_logo.png" alt="hackerrank" width="240" height="40" /></a>
-    and
+        <img src="https://www.hackerrank.com/wp-content/uploads/2018/08/hackerrank_logo.png" alt="hackerrank" width="240" height="40" />
+    </a>
+    &nbsp; and &nbsp;
     <a href="https://www.codewars.com/users/swisskanton" target="_blank" title ="Codewars"> 
         <img src="https://assets-global.website-files.com/62462834c60df92621c6b5be/624f2f0a99d70b93d9a65476_light-text-logo.svg" 
-        alt="codewars" width="218" height="40" /></a>
+        alt="codewars" width="218" height="40" />
+    </a>
         <!-- https://www.codewars.com/packs/assets/logo.61192cf7.svg -->
         
 </p>
