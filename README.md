@@ -44,20 +44,26 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/ServiceNow_logo.svg/2560px-ServiceNow_logo.svg.png" 
         alt="ServiceNow" width="180" height="40" /></a>
 </p>
-
+<!--
 <h2 align="left">🌱 Currently learning:</h2>
+-->
+<p align="left">
+    <a href="https://nodejs.org/en" target="_blank" title="Node.js"> 
+        <img src="https://img.icons8.com/?size=100&id=54087&format=png&color=000000" alt="Node.js" width="60" height="60"/></a>
+    &nbsp;
+
 <p align="left">
     <a href="https://spring.io/" target="_blank" title="Spring Boot"> 
         <img src="https://img.icons8.com/?size=100&id=90519&format=png&color=000000" alt="Spring Boot" width="40" height="40" /></a>
-    &nbsp;
+     &nbsp;
+</p>
+
+<p align="left">
     <a href="https://dart.dev/" target="_blank" title="Dart"> 
         <img src="https://github.com/user-attachments/assets/af0f15da-86bc-4940-bd6b-54228b003a19" alt="Dart" width="40" height="40" /></a>
     &nbsp;
     <a href="https://flutter.dev/" target="_blank" title="Flutter"> 
         <img src="https://img.icons8.com/?size=100&id=7I3BjCqe9rjG&format=png&color=000000" alt="Flutter" width="40" height="40" /></a>
-    &nbsp;
-    <a href="https://nodejs.org/en" target="_blank" title="Node.js"> 
-        <img src="https://img.icons8.com/?size=100&id=54087&format=png&color=000000" alt="Node.js" width="60" height="60"/></a>
 </p>
 
 <h2 align="left">🔭 I’m currently working on:</h2>
